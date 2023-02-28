@@ -72,3 +72,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 API_URL ="https://api.themoviedb.org/3/movie/popular?api_key=049d75c8ff17ae9982c701183adc49ad&language=en-US&page=1"
 API_IMG = "https://image.tmdb.org/t/p/w500"
 API_SEARCH = "https://api.themoviedb.org/3/search/movie?api_key=049d75c8ff17ae9982c701183adc49ad&query"# movies_project
+
+## "MovieHub: React app for browsing and watching movie trailers"
+
+> My app is a React-based movies app that allows users to easily browse and search for movies they want to watch. I designed the app with a clean and intuitive interface, making it easy for users to navigate and find the movies they are interested in.
+
+To start using my app, users can simply browse through the available movies or use the search bar to find a specific movie. I implemented a JSON-based database to store all of the movies in my app, making it easy for users to access a wide variety of movies from various genres.
+
+For users who are administrators, I implemented several features that allow them to manage the movie database and user information. They can add, update, or delete movies, as well as manage user accounts. This makes it easy for administrators to keep the movie database up-to-date and ensure that users have access to the latest and greatest movies.
+
+For users who are regular users, they can easily sign up for an account and save their information to the JSON database. Once logged in, they can access their account information and easily browse and watch movie trailers. This feature ensures that users can quickly access their favorite movies and keep track of their viewing history.
+
+I used browser routing to enable users to easily navigate between pages in my app. This means that users can quickly move from the home page to the movie details page, and then back to the home page without any lag or delay. This feature makes my app easy and fun to use.
+
+To display and fetch data from the JSON database, I used fetch and axios, which made it easy to implement and manage the data. Additionally, I ensured that the movie details page included a movie trailer so that users could easily preview the movie before watching it.
+
+Overall, I am very proud of my app, which provides users with an easy and enjoyable way to browse and watch their favorite movies.
