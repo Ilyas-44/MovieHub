@@ -88,3 +88,12 @@ I used browser routing to enable users to easily navigate between pages in my ap
 To display and fetch data from the JSON database, I used fetch and axios, which made it easy to implement and manage the data. Additionally, I ensured that the movie details page included a movie trailer so that users could easily preview the movie before watching it.
 
 Overall, I am very proud of my app, which provides users with an easy and enjoyable way to browse and watch their favorite movies.
+
+#Results : 
+>![Capture d’écran 2023-02-28 à 09 41 35](https://user-images.githubusercontent.com/117936276/221800816-d3cb1f01-4f9d-43e7-b3ee-f3a9b5be3e98.png)
+![Capture d’écran 2023-02-28 à 09 42 06](https://user-images.githubusercontent.com/117936276/221800821-76a78c01-8b73-4ca3-9ddc-b2f8ec11af26.png)
+![Capture d’écran 2023-02-28 à 09 43 00](https://user-images.githubusercontent.com/117936276/221800824-f9c338bc-4ed9-4b28-b25e-3f282f6c01e4.png)
+![Capture d’écran 2023-02-28 à 09 43 55](https://user-images.githubusercontent.com/117936276/221800826-d411e2c0-c9a8-4d79-998b-15b330889e1c.png)
+![Capture d’écran 2023-02-28 à 09 44 46](https://user-images.githubusercontent.com/117936276/221800828-d550f0ef-6f7c-4a83-a646-88a222aaf2dd.png)
+
+
