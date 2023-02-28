@@ -1,0 +1,6 @@
+.add{
+    color: aliceblue;
+
+    max-height: calc(100vh - 120px);
+    overflow: auto;
+}

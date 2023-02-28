@@ -1,0 +1,9 @@
+html, body {
+    height: 100%;
+    background-color: rgb(233, 202, 202)(215, 117, 117);
+}
+
+.App {
+    min-height: 100vh;
+    
+}

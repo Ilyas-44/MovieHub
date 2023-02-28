@@ -1,0 +1,83 @@
+
+.sidebar a {
+  text-decoration: none;
+  font-size: 20px;
+  color: #000000;
+  display: block;
+}
+
+.sidebar a:hover {
+  color: #f1f1f1;
+}
+.sidebar {
+
+    padding: 20px;
+  }
+  .sidebar label{
+    color: #ffffff;
+    font-size: 1.6em;
+  }
+  .sidebar ul {
+    list-style-type: none;
+  }
+  .sidebar input, label{
+    padding: 10px 10px;
+    width: 100%;
+  }
+  .filter-header {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .filter-section {
+    margin-bottom: 20px;
+  }
+  
+  .fltr{
+    padding: 10px 10px;
+    color: #ffffff;
+  }
+  
+  .filter-input {
+    width: 200px;
+    padding: 10px;
+    font-size: 1.2em;
+    border-radius: 5px;
+    border: 1px solid gray;
+  }
+  
+  .filter-button {
+    padding: 10px 10px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border: none;
+    font-size: 1em;
+    margin-top: 20px;
+    width: 200px;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .filter-button:hover {
+    background-color: rgb(155, 45, 39);
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+  }
+  @media screen and (max-width: 1190px) {
+    .sidebar a:not(:first-child) {display: none;}
+    .sidebar a.icon {
+      float: right;
+      display: block;
+    }
+  }
+  
+  @media screen and (max-width: 1190px) {
+    .sidebar.responsive {position: relative;}
+    .sidebar.responsive .icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }}
